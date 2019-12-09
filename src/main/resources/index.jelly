@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    It allows to deploy Bar files in IIB.
+</div>
